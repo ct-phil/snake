@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="pathToExecutable" value="C:\Users\DELL\anaconda3\Scripts\black.exe" />
+    <option name="sdkUUID" value="f7da8d9d-ea7f-42bb-ac7a-a29995a2de28" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11" project-jdk-type="Python SDK" />
+</project>
